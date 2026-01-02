@@ -1,0 +1,5 @@
+INSERT INTO public."DimProductCategory" (productcategorykey,productcategoryalternatekey,englishproductcategoryname,spanishproductcategoryname,frenchproductcategoryname) VALUES
+	 (1,1,'Bikes','Bicicleta','Vélo'),
+	 (2,2,'Components','Componente','Composant'),
+	 (3,3,'Clothing','Prenda','Vêtements'),
+	 (4,4,'Accessories','Accesorio','Accessoire');
